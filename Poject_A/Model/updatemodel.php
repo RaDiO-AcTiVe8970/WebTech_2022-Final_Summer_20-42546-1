@@ -1,0 +1,11 @@
+<?php
+	session_start();
+	$old_username=$_SESSION['uname'];
+	$username="";
+	$password="";
+	$religion="";
+	$nationality="";
+	$email="";
+	$gender="";
+	$address="";
+?>
